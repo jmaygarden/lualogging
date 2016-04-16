@@ -6,6 +6,7 @@ local test = {
 	"testSocket.lua",
 	"testSQL.lua",
 	"testRollingFile.lua",
+    "testZQM.lua",
 }
 
 print ("Start of Logging tests")
